@@ -1,0 +1,17 @@
+.navbar {
+    backdrop-filter: blur(15px);
+    -webkit-backdrop-filter: blur(15px);
+}
+
+.mobile-navbar {
+    /* backdrop-filter: blur(15px);
+    -webkit-backdrop-filter: blur(15px); */
+    background: red;
+}
+
+.python {
+    background: rgba(255,255,255,.1);
+    backdrop-filter: blur(15px);
+    -webkit-backdrop-filter: blur(15px);
+    border: 1px solid rgba(255, 255, 255, .18);
+}
